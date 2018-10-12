@@ -1,1 +1,4 @@
-需要 apt install sendmail
+ubuntu 18
+python3.3
+
+need: apt install sendmail
